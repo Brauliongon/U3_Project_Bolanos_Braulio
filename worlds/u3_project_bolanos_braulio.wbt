@@ -2,8 +2,8 @@
 WorldInfo {
 }
 Viewpoint {
-  orientation -0.679237948161627 0.7011003349484611 0.21701182021341228 0.8261825903034733
-  position 1.3049139959653964 1.6 2.208601519517024
+  orientation -0.48646067040455226 -0.8520850497534576 -0.19315041842098474 0.9026565899702996
+  position -2.385906438988524 2.2223171884931032 3.9016176746575124
 }
 TexturedBackground {
 }
@@ -1085,4 +1085,19 @@ Robot {
     density 100
   }
   controller "U3_project_bolanos_braulio"
+}
+OilBarrel {
+  translation -1.790000000000001 0.44 -0.30000000000000027
+}
+OilBarrel {
+  translation 0 0.44 -1.4800000000000002
+  name "oil barrel(1)"
+}
+OilBarrel {
+  translation -0.8900000000000005 0.44 1.6400000000000008
+  name "oil barrel(2)"
+}
+OilBarrel {
+  translation 2.0200000000000005 0.44 0.8200000000000001
+  name "oil barrel(3)"
 }
