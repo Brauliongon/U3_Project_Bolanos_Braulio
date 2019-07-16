@@ -66,7 +66,7 @@
 ### VERBOSE = 1
 ###
 ###-----------------------------------------------------------------------------
-
+C_SOURCES = U3_project_bolanos_braulio.c prom.c
 ### Do not modify: this includes Webots global Makefile.include
 space :=
 space +=
